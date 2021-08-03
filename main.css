@@ -1,0 +1,43 @@
+.mohrhuhn-haus{
+    background-position: center;
+    position: absolute;
+    left: 0;
+    right:0;
+    top:0;
+    bottom:0;
+}
+
+.mohrhuhn1{
+    opacity: 100%;
+    left:400px ;
+    margin-bottom: 500px;
+    margin-top:500px;
+}
+
+.mohrhuhn2{
+    opacity: 100%;
+    left:60px ;
+    margin-left: 20px;
+    margin-bottom: 500px;
+}
+
+.mohrhuhn3{
+    opacity: 100%;
+    background-position: center;
+    margin-right: 30px;
+    margin-left:750px;
+    margin-bottom:300px;
+    margin-top:300px;
+}
+
+.fadenkreuz{
+    position: absolute;
+    background-position: center;
+    left: 100px;
+    opacity: 100%;
+    pointer-events: none;
+}
+
+*{
+    cursor: none;
+}
